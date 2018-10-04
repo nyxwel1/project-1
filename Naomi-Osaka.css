@@ -1,19 +1,15 @@
 body {
-    align: center;
+    text-align: center;
     width: 50%;
     background-color: aqua;
 }
-    h1 {
-        font-family: 'Niramit', sans-serif;
-        background-color: burlywood
-}
-    h4{
-        background-color: burlywood;
+    h1,h4 { background-color: burlywood;
+        font-family: 'Niramit', sans-serif;       
 }
     p 
         {font-family: 'Lora', serif;}
     .img 
-        {height: 50%;
-        width: 5%;
-        background-color: burlywood;
+        {
+        height: 50%;
+        width: 50%;
 }
